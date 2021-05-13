@@ -1,0 +1,23 @@
+body.login div#login form#loginform p.submit input#wp-submit {
+    background-color:#17a8e3 !important;
+  }
+
+  body.login {
+    background-image: url('home-bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+  body.login div#login form#loginform input {
+    font-size: 15px;
+    color: #555555;
+  }
+
+  body.login div#login form#loginform p.submit input#wp-submit {
+    background-color:#17a8e3 !important;
+    color: #ffffff;
+    border: 1px solid #0d9ed9;
+    margin: 10px 10px 10px 10px;
+  }
+  
